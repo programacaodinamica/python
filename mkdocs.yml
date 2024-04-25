@@ -1,0 +1,32 @@
+site_name: Aprenda Python com Programação Dinâmica
+theme:
+  name: material
+  logo: assets/logo.png
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      primary: blue
+      accent: indigo
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: teal
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+extra:
+  analytics:
+    provider: google
+    property: G-YX74HVMP56
+nav:
+  - 💻 SOBRE: index.md
+  - 🎓 PYTHON POR COMPETÊNCIAS: competencias.md
