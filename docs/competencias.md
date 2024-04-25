@@ -1,7 +1,6 @@
 # Domine as Competências da Programação em Python
 
-*Que tal estudar programação com objetivos claros e bem definidos em mente? 
-*
+> Que tal estudar programação com objetivos claros e bem definidos em mente?
 
 Ao se inscrever no **Python por Competências**, você receberá desafios teóricos e práticos semanalmente**, projetados para testar e aprimorar suas habilidades. Essa abordagem centrada em competências permite que você avalie seu progresso não apenas pelo que sabe, mas pelo que é capaz de realizar.
 
