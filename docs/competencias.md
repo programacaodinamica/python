@@ -12,8 +12,5 @@ Este modelo de aprendizado requer disciplina e autodidatismo, ideal para aqueles
 
 Ao se inscrever agora, você receberá as 4 primeiras semanas gratuitamente como parte do nosso programa beta. Além disso, você garantirá um cupom de desconto exclusivo para a versão final! Basta preencher o formulário abaixo com seu nome e e-mail. 
 
----
-
-**
-
+<iframe width="540" height="305" src="https://4858e10d.sibforms.com/serve/MUIFAFqxJQx_YJ3qkf_PVAzkV9I_aPSMui3D2knipCgGigWVWYzAOs9HpBrG4PJYlKZOcCYnuUt0YPjF2N4FWONEXKvlu1zuaTjgFRPmOuIGpEpPRyylbSMNlv8oqH8TiVnb2UqIHS6FtQxqTJLVHN_zrV-g0_mWGHiO9XcvZ3v-hxvVLVRBFMQwJaHFnVQrjTKFoEve4qvvxaeh" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
 
