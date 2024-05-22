@@ -5,8 +5,8 @@ theme:
   palette:
     # Palette toggle for light mode
     - scheme: default
-      primary: blue
-      accent: indigo
+      primary: indigo
+      accent: teal
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
@@ -29,4 +29,12 @@ extra:
     property: G-YX74HVMP56
 nav:
   - 💻 SOBRE: index.md
+  - 🌱 PYTHON DO JEITO CERTO 2.0:
+    - pjc2/aula0.md
+    - pjc2/aula1.md
+    - pjc2/aula2.md
+    - pjc2/aula3.md
+    - pjc2/aula4.md
+    - pjc2/aula5.md
+    - pjc2/aula6.md
   - 🎓 PYTHON POR COMPETÊNCIAS: competencias.md
