@@ -88,7 +88,7 @@ Ao se inscrever agora, você receberá as 4 primeiras semanas gratuitamente como
     </div>
     <div></div>
     <div id="sib-container" class="sib-container--large sib-container--vertical" style="text-align:center; background-color:rgba(255,255,255,1); max-width:540px; border-radius:3px; border-width:1px; border-color:#C0CCD9; border-style:solid; direction:ltr">
-      <form id="sib-form" method="POST" action="https://4858e10d.sibforms.com/serve/MUIFAFqxJQx_YJ3qkf_PVAzkV9I_aPSMui3D2knipCgGigWVWYzAOs9HpBrG4PJYlKZOcCYnuUt0YPjF2N4FWONEXKvlu1zuaTjgFRPmOuIGpEpPRyylbSMNlv8oqH8TiVnb2UqIHS6FtQxqTJLVHN_zrV-g0_mWGHiO9XcvZ3v-hxvVLVRBFMQwJaHFnVQrjTKFoEve4qvvxaeh" data-type="subscription">
+      <form id="sib-form" method="POST" action="https://4858e10d.sibforms.com/serve/MUIFADDhrgSWSVhTdr78LDjFXUBd8-v-bTYDRLyTF3vgm8581WDUX_ZuaXSitK3VWPnGjHPNkcjA_1_kElBGz0YkSLP4AVPzcX5n2XjiWfn258ao0EG6i6Ddi585HaXUG7u0fGTVyY-_YhH_B3aZCGSZNkPNP6Dd7XewOgDWa9wmssnp2ryRHJdaebXzOerZzQ9OyTz81hoHvNvo" data-type="subscription">
         <div style="padding: 8px 0;">
           <div class="sib-form-block" style="font-size:30px; text-align:left; font-weight:700; font-family:&quot;Helvetica&quot;, sans-serif; color:#3C4858; background-color:transparent; text-align:left">
             <p>Python por Competências *beta*</p>
@@ -179,23 +179,6 @@ Ao se inscrever agora, você receberá as 4 primeiras semanas gratuitamente como
           </div>
         </div>
         <div style="padding: 8px 0;">
-          <div class="sib-captcha sib-form-block">
-            <div class="form__entry entry_block">
-              <div class="form__label-row ">
-                <script>
-                  function handleCaptchaResponse() {
-                    var event = new Event('captchaChange');
-                    document.getElementById('sib-captcha').dispatchEvent(event);
-                  }
-                </script>
-                <div class="g-recaptcha sib-visible-recaptcha" id="sib-captcha" data-sitekey="6LfR_8YpAAAAAImsZ7aghq5Sb8_L3zEpY_0_BBiK" data-callback="handleCaptchaResponse" style="direction:ltr"></div>
-              </div>
-              <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
-              </label>
-            </div>
-          </div>
-        </div>
-        <div style="padding: 8px 0;">
           <div class="sib-form-block" style="text-align: left">
             <button class="sib-form-block__button sib-form-block__button-with-loader" style="font-size:16px; text-align:left; font-weight:700; font-family:&quot;Helvetica&quot;, sans-serif; color:#FFFFFF; background-color:#3E4857; border-radius:3px; border-width:0px;" form="sib-form" type="submit">
               <svg class="icon clickable__icon progress-indicator__icon sib-hide-loader-icon" viewBox="0 0 512 512">
@@ -239,7 +222,7 @@ Ao se inscrever agora, você receberá as 4 primeiras semanas gratuitamente como
 
 <script defer src="https://sibforms.com/forms/end-form/build/main.js"></script>
 
-<script src="https://www.google.com/recaptcha/api.js?hl=pt"></script>
 
 <!-- END - We recommend to place the above code in footer or bottom of your website html  -->
 <!-- End Brevo Form -->
+
